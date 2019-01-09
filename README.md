@@ -1,5 +1,5 @@
 # Sports-Articles-Objectivity
-A final project at "Introduction to Data Science" 1-st year MSc DS course at Skoltech
+A final project at "Introduction to Data Science" 1-st year MSc DS course at Skoltech. Dataset: http://archive.ics.uci.edu/ml/datasets/Sports+articles+for+objectivity+analysis
 
 Correct order of the notebooks:
 
